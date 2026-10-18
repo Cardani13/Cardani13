@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Cardani13">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=E0457B&center=true&vCenter=true&width=520&lines=Hola%2C+soy+Cardani13+%F0%9F%91%8B;Desarrollo+Android+con+Kotlin;Backend+con+Django+y+bases+de+datos;Videojuegos+con+Unity+y+C%2B%2B;Redes%2C+routers+y+compiladores" alt="Texto animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=E0457B&center=true&vCenter=true&width=520&lines=Hola%2C+soy+Cardani13+%F0%9F%91%8B;Desarrollo+Android+con+Kotlin;Backend+con+Django+y+bases+de+datos;Videojuegos+con+Unity;Redes%2C+routers+y+compiladores" alt="Texto animado" />
   </a>
 </p>
 
