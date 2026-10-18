@@ -23,8 +23,8 @@
 ## 🌙 Sobre mí
 
 <!-- Escribe aquí tu descripción -->
-Escribe aquí tu descripción.
-
+Soy una persona entusiasta con hambre de conocimiento, me gusta investigar diversos temas de mi interés en áreas tecnológicas, ciencias naturales 
+y filosofía. Actualmente estudio ingeniería en sistemas computacionales y me gusta explorar mi propia curiosidad. He construido diversos sistemas en ámbitos académicos junto con algunos proyectos personales.
 <!-- ═══════════════ TECNOLOGÍAS ═══════════════ -->
 ## 🛠️ Tecnologías
 
