@@ -60,7 +60,7 @@ y filosofía. Actualmente estudio ingeniería en sistemas computacionales y me g
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cardani13&bg_color=1a1625&color=c9c1d9&line=e0457b&point=7fd1c7&area=true&area_color=e0457b&hide_border=true&custom_title=Actividad%20reciente" alt="Gráfica de actividad" />
+  <img width="100%" src="https://github-readme-activity-graph-brown-delta.vercel.app/graph?username=Cardani13&bg_color=1a1625&color=c9c1d9&line=e0457b&point=7fd1c7&area=true&area_color=e0457b&hide_border=true&custom_title=Actividad%20reciente&title_color=e0457b&radius=6" alt="Gráfica de actividad" />
 </p>
 
 <!-- ═══════════════ RINCÓN PIXEL ART ═══════════════ -->
